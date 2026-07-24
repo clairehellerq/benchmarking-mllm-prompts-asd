@@ -23,6 +23,13 @@ The evaluation uses two publicly available naturalistic video datasets:
 
 The models were evaluated on their ability to identify and temporally localize three specific behaviors: arm flapping, head banging, and spinning.
 
+## Methods
+
+See study workflow illustrating datasets, prompting strategies, multi-modal language models, and evaluation procedures below. 
+
+<img width="1536" height="1024" alt="MethodsFigure" src="https://github.com/user-attachments/assets/9b92c489-195a-4fd7-9644-9ab4a16dbd14" />
+
+
 ## Usage 
 
 The prompt templates in the `prompts/` directory can be used to replicate the evaluation or applied to new video datasets. The results data can be loaded using standard data analysis libraries (e.g., pandas) to reproduce the figures and statistical analyses discussed in the paper.
