@@ -27,7 +27,7 @@ The models were evaluated on their ability to identify and temporally localize t
 
 See study workflow illustrating datasets, prompting strategies, multi-modal language models, and evaluation procedures below. 
 
-<img width="1536" height="1024" alt="MethodsFigure" src="https://github.com/user-attachments/assets/9b92c489-195a-4fd7-9644-9ab4a16dbd14" />
+<img width="1536" height="1024" alt="MethodsFig" src="https://github.com/user-attachments/assets/181cec68-4800-4cca-80cf-b7a5920da76f" />
 
 
 ## Usage 
