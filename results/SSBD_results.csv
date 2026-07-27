@@ -1,4 +1,4 @@
-Model,Prompt,Behavior,GT-present N,Accuracy [95% CI],Precision [95% CI],Recall [95% CI],F1 [95% CI],Temporal Recall % [95% CI],Temporal Recall % [95% CI],Matched Videos
+Model,Prompt,Behavior,GT-present N,Accuracy [95% CI],Precision [95% CI],Recall [95% CI],F1 [95% CI],Temporal Recall % [95% CI],Temporal Precision % [95% CI],Matched Videos
 Qwen,Baseline,Arm Flapping,21,"0.754 [0.632, 0.860]","0.667 [0.458, 0.857]","0.667 [0.467, 0.880]","0.667 [0.483, 0.800]","49.0 [31.0, 67.3]","61.8 [47.7, 74.5]",57
 ,,Head Banging,20,"0.702 [0.579, 0.825]","0.800 [0.333, 1.000]","0.200 [0.045, 0.400]","0.320 [0.095, 0.560]","19.4 [4.4, 38.1]","80.6 [67.8, 93.4]",57
 ,,Spinning,19,"0.877 [0.789, 0.965]","1.000 [1.000, 1.000]","0.632 [0.400, 0.842]","0.774 [0.571, 0.914]","30.5 [14.0, 46.6]","61.1 [44.7, 77.1]",57
