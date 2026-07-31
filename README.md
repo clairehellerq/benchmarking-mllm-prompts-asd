@@ -14,7 +14,7 @@ It provides the data and methodology used to evaluate three state-of-the-art mod
 
 * `prompts/`: Contains the exact text files for the Baseline, Long, and CoT prompts used to query the models.
 * `results/`: Contains the comprehensive evaluation data in CSV format (`ssbd_results.csv` and `ssbd_plus_results.csv`), including video-level presence metrics (Precision, Recall, F1) and temporal localization metrics (Ground Truth Coverage, Predicted Purity).
-* 'icl_videos/': Contains the video examples of arm flapping, head banging, and spinning used for ICL prompting.
+* 'video_examples/': Contains the video examples of arm flapping, head banging, and spinning used for ICL prompting.
 
 ## Datasets
 
@@ -28,7 +28,7 @@ The models were evaluated on their ability to identify and temporally localize t
 
 See study workflow illustrating datasets, prompting strategies, multi-modal language models, and evaluation procedures below. 
 
-<img width="1536" height="1024" alt="MethodsFig" src="https://github.com/user-attachments/assets/181cec68-4800-4cca-80cf-b7a5920da76f" />
+<img width="560" height="323" alt="image" src="https://github.com/user-attachments/assets/eef8a581-6db7-4c81-945b-9ed06ef27027" />
 
 
 ## Usage 
