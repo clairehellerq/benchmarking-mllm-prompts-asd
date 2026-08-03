@@ -1,6 +1,6 @@
 # benchmarking-mllm-prompts-asd
 
-**Benchmarking Prompting Strategies for General-Purpose multi-modal Language Models in Autism-Related Behavioral Feature Extraction**
+**Prompt-Aware Benchmarking of General-Purpose Large Language Models for Autism-Related Behavioral Feature Extraction from Naturalistic Child Videos**
 
 This repository contains the evaluation framework, prompt templates, and results for assessing how different prompting strategies influence the ability of general-purpose vision-language models (VLMs) to detect and temporally localize autism-related self-stimulatory behaviors in naturalistic videos. 
 
